@@ -1,3 +1,6 @@
+This project will analyze the features including pros and cons of smart contract platforms and related technologies.
+<br/>
+<br/>
 Achain
 <br/>
 Ethereum
@@ -23,3 +26,5 @@ PoS
 Miners
 <br/>
 Interchain
+<br/>
+Rsk
