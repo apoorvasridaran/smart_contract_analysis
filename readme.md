@@ -14,16 +14,28 @@ status if each project
 <br/>
 mainnet
 <br/>
+Why arent they gaining traction
+<br/>
+Can they really scale
+<br/>
 <br/>
 Achain
 <br/>
+<br/>
 Ethereum
+<br/>
+Truffle
+<br/>
+Web3
+<br/>
 <br/>
 Eos
 <br/>
 Cardano
 <br/>
 Aeternity
+<br/>
+Stelar
 <br/>
 Neo
 <br/>
@@ -54,3 +66,17 @@ Lightning network
 raiden
 <br/>
 Forking
+<br/>
+auditing
+<br/>
+tooling
+<br/>
+Ripple
+<br/>
+Nebulas
+<br/>
+White papers
+<br/>
+Ipfs
+<br/>
+Machine learning
