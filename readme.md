@@ -6,8 +6,6 @@ reddit
 <br/>
 git
 <br/>
-reddit
-<br/>
 community involvement
 <br/>
 status if each project
@@ -21,6 +19,10 @@ Can they really scale
 <br/>
 Achain
 <br/>
+https://hackernoon.com/contractpedia-an-encyclopedia-of-40-smart-contract-platforms-4867f66da1e5
+<br/>
+<br/>
+Zilliqa
 <br/>
 Ethereum
 <br/>
@@ -31,15 +33,23 @@ Web3
 <br/>
 Eos
 <br/>
+https://developers.eos.io/
+<br/>
+<br/>
 Cardano
 <br/>
 Aeternity
+<br/>
+https://medium.com/@Edward.Ward_53210/token-analysis-aeternity-ae-782a87a5aabe
+<br/>
+https://github.com/aeternity/epoch
 <br/>
 Stelar
 <br/>
 Neo
 <br/>
 Lisk
+https://blog.lisk.io/
 <br/>
 Plasma
 <br/>
@@ -54,6 +64,7 @@ Miners
 Interchain
 <br/>
 Rsk
+https://github.com/rsksmart/rskj/wiki
 <br/>
 State channel
 <br/>
@@ -73,10 +84,15 @@ tooling
 <br/>
 Ripple
 <br/>
+loom
+https://loomx.io/
+<br/>
 Nebulas
 <br/>
 White papers
 <br/>
 Ipfs
+<br/>
+how are miners setup
 <br/>
 Machine learning
